@@ -5,6 +5,14 @@
  * - Xoá contact
  * - Tìm kiếm contact: có thể nhập vào tên (không dấu hoặc có dấu, chữ hoa hoặc chữ thường vẫn cho ra kết quả) hoặc 1 phần số điện thoại
  */
+
+ /**
+ * Copyright 2020 present, Đào Thị Thanh Mai.
+ * All rights reserved.
+ * @author sukhacbiet1199@gmail.com on 15/8/2020.
+ * email: sukhacbiet1199@gmail.com
+ */
+ 'use-strict';
 var fs = require('fs');
 var readlineSync=require('readline-sync');
 var danhSach =[];
